@@ -1,0 +1,18 @@
+a) What is menu. Write its importance. 
+
+Menus are the additional options that are displayed by clicking menu button of mobile.  It display those options that are not directly visible on the main UI of an application. 
+It is used to save UI space of an Activity and de-congest the UI.
+
+b) What is options menu. When it is activated. 
+
+Options Menu shows the menu items of the activity in the action bar present on top the the activity. It may be present as an on-screen button or as part of the overflow items. 
+It is activated when the user clicks on any menu option.
+
+c) What is context menu. When it is activated. 
+
+Context menu is used to perform additional actions related to a particular items. E.G. if we press a image for long, it will give an additional menu listing the actions we can perform on that image.
+It is activated when the user clicks/taps or holds on any view or control.
+
+d) What is the alternative of ActionBarActivity as its deprecated.
+
+The new alternative is AppCompatActivity.
